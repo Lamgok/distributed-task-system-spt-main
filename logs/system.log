@@ -1,0 +1,51 @@
+[2026-05-21 17:29:16] Server started on port 8080
+[2026-05-21 17:30:15] Server started on port 8080
+[2026-05-21 17:30:16] Worker-1 started
+[2026-05-21 17:30:16] Worker-2 started
+[2026-05-21 17:30:16] Worker-3 started
+[2026-05-21 17:30:30] Task Task-0 submitted with priority MEDIUM
+[2026-05-21 17:30:32] Task Task-4 submitted with priority LOW
+[2026-05-21 17:30:33] Task Task-5 submitted with priority LOW
+[2026-05-21 17:30:33] Task Task-6 submitted with priority HIGH
+[2026-05-21 17:30:34] Task Task-8 submitted with priority LOW
+[2026-05-21 17:30:35] Task Task-10 submitted with priority LOW
+[2026-05-21 17:30:36] Task Task-12 submitted with priority LOW
+[2026-05-21 17:30:37] Task Task-13 submitted with priority LOW
+[2026-05-21 17:46:52] Server started on port 8080
+[2026-05-21 17:46:52] Worker-1 started
+[2026-05-21 17:46:52] Worker-2 started
+[2026-05-21 17:46:52] Worker-3 started
+[2026-05-21 17:48:59] Task Task-0 submitted with priority HIGH
+[2026-05-21 17:49:00] Task Task-1 submitted with priority LOW
+[2026-05-21 17:49:00] Task Task-2 submitted with priority HIGH
+[2026-05-21 17:49:01] Task Task-3 submitted with priority LOW
+[2026-05-21 17:49:01] Task Task-4 submitted with priority HIGH
+[2026-05-21 17:49:02] Task Task-5 submitted with priority HIGH
+[2026-05-21 17:49:02] Task Task-6 submitted with priority LOW
+[2026-05-21 17:49:03] Task Task-7 submitted with priority MEDIUM
+[2026-05-21 17:49:03] Task Task-8 submitted with priority LOW
+[2026-05-21 17:49:04] Task Task-9 submitted with priority LOW
+[2026-05-21 17:49:04] Task Task-10 submitted with priority LOW
+[2026-05-21 17:49:05] Task Task-11 submitted with priority HIGH
+[2026-05-21 17:49:05] Task Task-12 submitted with priority MEDIUM
+[2026-05-21 17:49:06] Task Task-13 submitted with priority LOW
+[2026-05-21 17:49:06] Task Task-14 submitted with priority MEDIUM
+[2026-05-21 18:07:32] Server started on port 8080
+[2026-05-21 18:07:33] Worker-1 started
+[2026-05-21 18:07:33] Worker-2 started
+[2026-05-21 18:07:33] Worker-3 started
+[2026-05-21 18:07:51] Task Task-0 submitted with priority MEDIUM
+[2026-05-21 18:07:51] Task Task-1 submitted with priority LOW
+[2026-05-21 18:07:52] Task Task-2 submitted with priority HIGH
+[2026-05-21 18:07:52] Task Task-3 submitted with priority LOW
+[2026-05-21 18:07:53] Task Task-4 submitted with priority MEDIUM
+[2026-05-21 18:07:53] Task Task-5 submitted with priority LOW
+[2026-05-21 18:07:54] Task Task-6 submitted with priority LOW
+[2026-05-21 18:07:54] Task Task-7 submitted with priority HIGH
+[2026-05-21 18:07:55] Task Task-8 submitted with priority MEDIUM
+[2026-05-21 18:07:55] Task Task-9 submitted with priority LOW
+[2026-05-21 18:07:56] Task Task-10 submitted with priority LOW
+[2026-05-21 18:07:56] Task Task-11 submitted with priority MEDIUM
+[2026-05-21 18:07:57] Task Task-12 submitted with priority MEDIUM
+[2026-05-21 18:07:57] Task Task-13 submitted with priority MEDIUM
+[2026-05-21 18:07:58] Task Task-14 submitted with priority HIGH
