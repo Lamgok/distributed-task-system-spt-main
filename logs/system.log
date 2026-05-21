@@ -49,3 +49,274 @@
 [2026-05-21 18:07:57] Task Task-12 submitted with priority MEDIUM
 [2026-05-21 18:07:57] Task Task-13 submitted with priority MEDIUM
 [2026-05-21 18:07:58] Task Task-14 submitted with priority HIGH
+[2026-05-21 20:50:35] Server started on port 8080
+[2026-05-21 20:50:36] Worker-2 started
+[2026-05-21 20:50:36] Worker-3 started
+[2026-05-21 20:50:36] Worker-1 started
+[2026-05-21 20:52:35] Task Task-0 submitted with priority LOW
+[2026-05-21 20:52:35] Task Task-1 submitted with priority MEDIUM
+[2026-05-21 20:52:36] Task Task-2 submitted with priority HIGH
+[2026-05-21 20:52:36] Task Task-3 submitted with priority MEDIUM
+[2026-05-21 20:52:37] Task Task-4 submitted with priority LOW
+[2026-05-21 20:52:37] Task Task-5 submitted with priority HIGH
+[2026-05-21 20:52:38] Task Task-6 submitted with priority LOW
+[2026-05-21 20:52:38] Task Task-7 submitted with priority HIGH
+[2026-05-21 20:52:39] Task Task-8 submitted with priority LOW
+[2026-05-21 20:52:39] Task Task-9 submitted with priority MEDIUM
+[2026-05-21 20:52:40] Task Task-10 submitted with priority HIGH
+[2026-05-21 20:52:40] Task Task-11 submitted with priority HIGH
+[2026-05-21 20:52:41] Task Task-12 submitted with priority LOW
+[2026-05-21 20:52:41] Task Task-13 submitted with priority HIGH
+[2026-05-21 20:52:42] Task Task-14 submitted with priority HIGH
+[2026-05-21 21:05:05] Task Task-0 submitted with priority LOW
+[2026-05-21 21:05:06] Task Task-1 submitted with priority MEDIUM
+[2026-05-21 21:05:06] Task Task-2 submitted with priority HIGH
+[2026-05-21 21:05:07] Task Task-3 submitted with priority MEDIUM
+[2026-05-21 21:05:07] Task Task-4 submitted with priority LOW
+[2026-05-21 21:05:08] Task Task-5 submitted with priority LOW
+[2026-05-21 21:05:08] Task Task-6 submitted with priority LOW
+[2026-05-21 21:05:09] Task Task-7 submitted with priority LOW
+[2026-05-21 21:05:09] Task Task-8 submitted with priority LOW
+[2026-05-21 21:05:10] Task Task-9 submitted with priority MEDIUM
+[2026-05-21 21:05:10] Task Task-10 submitted with priority HIGH
+[2026-05-21 21:05:11] Task Task-11 submitted with priority MEDIUM
+[2026-05-21 21:05:11] Task Task-12 submitted with priority LOW
+[2026-05-21 21:05:12] Task Task-13 submitted with priority HIGH
+[2026-05-21 21:05:12] Task Task-14 submitted with priority HIGH
+[2026-05-21 21:07:13] Server started on port 8080
+[2026-05-21 21:07:14] Worker-1 started
+[2026-05-21 21:07:14] Worker-3 started
+[2026-05-21 21:07:14] Worker-2 started
+[2026-05-21 21:10:34] Task Task-0 submitted with priority HIGH
+[2026-05-21 21:10:34] Task Task-1 submitted with priority HIGH
+[2026-05-21 21:10:35] Task Task-2 submitted with priority HIGH
+[2026-05-21 21:10:35] Task Task-3 submitted with priority LOW
+[2026-05-21 21:10:36] Task Task-4 submitted with priority HIGH
+[2026-05-21 21:10:36] Task Task-5 submitted with priority LOW
+[2026-05-21 21:10:37] Task Task-6 submitted with priority LOW
+[2026-05-21 21:10:37] Task Task-7 submitted with priority MEDIUM
+[2026-05-21 21:10:38] Task Task-8 submitted with priority HIGH
+[2026-05-21 21:10:38] Task Task-9 submitted with priority HIGH
+[2026-05-21 21:10:39] Task Task-10 submitted with priority LOW
+[2026-05-21 21:10:39] Task Task-11 submitted with priority MEDIUM
+[2026-05-21 21:10:40] Task Task-12 submitted with priority MEDIUM
+[2026-05-21 21:10:40] Task Task-13 submitted with priority MEDIUM
+[2026-05-21 21:10:41] Task Task-14 submitted with priority LOW
+[2026-05-21 21:15:49] Server started on port 8080
+[2026-05-21 21:15:49] Worker-3 started
+[2026-05-21 21:15:49] Worker-2 started
+[2026-05-21 21:15:49] Worker-1 started
+[2026-05-21 21:16:12] Worker-3 failed on Task-0
+[2026-05-21 21:16:12] Retrying Task-0
+[2026-05-21 21:16:12] Worker-2 failed on Task-0
+[2026-05-21 21:16:12] Retrying Task-0
+[2026-05-21 21:16:12] Worker-1 failed on Task-0
+[2026-05-21 21:16:12] Retrying Task-0
+[2026-05-21 21:18:53] Server started on port 8080
+[2026-05-21 21:18:54] Worker-2 started
+[2026-05-21 21:18:54] Worker-3 started
+[2026-05-21 21:18:54] Worker-1 started
+[2026-05-21 21:19:22] Task Task-0 submitted with priority HIGH
+[2026-05-21 21:19:22] Processing Task-0
+[2026-05-21 21:19:22] Task Task-1 submitted with priority LOW
+[2026-05-21 21:19:22] Processing Task-1
+[2026-05-21 21:19:23] Task Task-2 submitted with priority LOW
+[2026-05-21 21:19:23] Processing Task-2
+[2026-05-21 21:19:23] Task Task-3 submitted with priority MEDIUM
+[2026-05-21 21:19:24] Task Task-4 submitted with priority LOW
+[2026-05-21 21:19:24] Task Task-5 submitted with priority HIGH
+[2026-05-21 21:19:25] Completed Task-2
+[2026-05-21 21:19:25] Task Task-6 submitted with priority LOW
+[2026-05-21 21:19:25] Processing Task-3
+[2026-05-21 21:19:26] Task Task-7 submitted with priority MEDIUM
+[2026-05-21 21:19:26] Worker-2 failed on Task-0
+[2026-05-21 21:19:26] Retrying Task-0
+[2026-05-21 21:19:26] Processing Task-4
+[2026-05-21 21:19:26] Task Task-8 submitted with priority MEDIUM
+[2026-05-21 21:19:26] Worker-3 failed on Task-1
+[2026-05-21 21:19:26] Retrying Task-1
+[2026-05-21 21:19:26] Processing Task-5
+[2026-05-21 21:19:27] Task Task-9 submitted with priority LOW
+[2026-05-21 21:19:27] Task Task-10 submitted with priority LOW
+[2026-05-21 21:19:28] Task Task-11 submitted with priority HIGH
+[2026-05-21 21:19:28] Completed Task-4
+[2026-05-21 21:19:28] Processing Task-6
+[2026-05-21 21:19:28] Task Task-12 submitted with priority MEDIUM
+[2026-05-21 21:19:29] Task Task-13 submitted with priority MEDIUM
+[2026-05-21 21:19:29] Completed Task-3
+[2026-05-21 21:19:29] Processing Task-7
+[2026-05-21 21:19:29] Task Task-14 submitted with priority LOW
+[2026-05-21 21:19:29] Worker-3 failed on Task-5
+[2026-05-21 21:19:29] Retrying Task-5
+[2026-05-21 21:19:30] Processing Task-0
+[2026-05-21 21:19:31] Completed Task-6
+[2026-05-21 21:19:31] Processing Task-8
+[2026-05-21 21:19:33] Completed Task-0
+[2026-05-21 21:19:33] Processing Task-1
+[2026-05-21 21:19:33] Completed Task-8
+[2026-05-21 21:19:33] Processing Task-9
+[2026-05-21 21:19:34] Worker-1 failed on Task-7
+[2026-05-21 21:19:34] Retrying Task-7
+[2026-05-21 21:19:34] Processing Task-10
+[2026-05-21 21:19:37] Completed Task-1
+[2026-05-21 21:19:37] Processing Task-11
+[2026-05-21 21:19:38] Completed Task-9
+[2026-05-21 21:19:38] Processing Task-12
+[2026-05-21 21:19:39] Completed Task-10
+[2026-05-21 21:19:39] Processing Task-13
+[2026-05-21 21:19:41] Completed Task-11
+[2026-05-21 21:19:41] Processing Task-14
+[2026-05-21 21:19:42] Worker-2 failed on Task-12
+[2026-05-21 21:19:42] Retrying Task-12
+[2026-05-21 21:19:42] Processing Task-5
+[2026-05-21 21:19:44] Completed Task-14
+[2026-05-21 21:19:44] Processing Task-7
+[2026-05-21 21:19:44] Completed Task-13
+[2026-05-21 21:19:44] Processing Task-12
+[2026-05-21 21:19:45] Completed Task-5
+[2026-05-21 21:19:46] Worker-3 failed on Task-7
+[2026-05-21 21:19:46] Retrying Task-7
+[2026-05-21 21:19:46] Processing Task-7
+[2026-05-21 21:19:46] Completed Task-12
+[2026-05-21 21:19:48] Worker-2 failed on Task-7
+[2026-05-21 21:19:48] Retrying Task-7
+[2026-05-21 21:19:48] Processing Task-7
+[2026-05-21 21:19:51] Completed Task-7
+[2026-05-21 21:27:24] Server started on port 8080
+[2026-05-21 21:27:25] Worker-1 started
+[2026-05-21 21:27:25] Worker-2 started
+[2026-05-21 21:27:25] Worker-3 started
+[2026-05-21 21:27:45] Task Task-0 submitted with priority LOW
+[2026-05-21 21:27:45] Processing Task-0
+[2026-05-21 21:27:45] Task Task-1 submitted with priority LOW
+[2026-05-21 21:27:45] Processing Task-1
+[2026-05-21 21:27:46] Task Task-2 submitted with priority HIGH
+[2026-05-21 21:27:46] Processing Task-2
+[2026-05-21 21:27:46] Task Task-3 submitted with priority MEDIUM
+[2026-05-21 21:27:47] Task Task-4 submitted with priority LOW
+[2026-05-21 21:27:47] Completed Task-1
+[2026-05-21 21:27:47] Processing Task-3
+[2026-05-21 21:27:47] Task Task-5 submitted with priority HIGH
+[2026-05-21 21:27:48] Task Task-6 submitted with priority MEDIUM
+[2026-05-21 21:27:48] Task Task-7 submitted with priority LOW
+[2026-05-21 21:27:49] Completed Task-2
+[2026-05-21 21:27:49] Processing Task-4
+[2026-05-21 21:27:49] Task Task-8 submitted with priority LOW
+[2026-05-21 21:27:49] Task Task-9 submitted with priority MEDIUM
+[2026-05-21 21:27:50] Worker-1 failed on Task-0
+[2026-05-21 21:27:50] Retrying Task-0
+[2026-05-21 21:27:50] Processing Task-5
+[2026-05-21 21:27:50] Task Task-10 submitted with priority MEDIUM
+[2026-05-21 21:27:50] Completed Task-3
+[2026-05-21 21:27:50] Processing Task-6
+[2026-05-21 21:27:50] Task Task-11 submitted with priority LOW
+[2026-05-21 21:27:51] Task Task-12 submitted with priority HIGH
+[2026-05-21 21:27:51] Task Task-13 submitted with priority HIGH
+[2026-05-21 21:27:52] Task Task-14 submitted with priority MEDIUM
+[2026-05-21 21:27:53] Completed Task-5
+[2026-05-21 21:27:53] Processing Task-7
+[2026-05-21 21:27:53] Worker-2 failed on Task-6
+[2026-05-21 21:27:53] Retrying Task-6
+[2026-05-21 21:27:53] Processing Task-8
+[2026-05-21 21:27:54] Completed Task-4
+[2026-05-21 21:27:54] Processing Task-9
+[2026-05-21 21:27:56] Completed Task-7
+[2026-05-21 21:27:56] Processing Task-0
+[2026-05-21 21:27:58] Completed Task-9
+[2026-05-21 21:27:58] Processing Task-10
+[2026-05-21 21:27:58] Completed Task-8
+[2026-05-21 21:27:58] Processing Task-11
+[2026-05-21 21:28:01] Completed Task-0
+[2026-05-21 21:28:01] Processing Task-12
+[2026-05-21 21:28:02] Completed Task-10
+[2026-05-21 21:28:02] Processing Task-13
+[2026-05-21 21:28:03] Worker-2 failed on Task-11
+[2026-05-21 21:28:03] Retrying Task-11
+[2026-05-21 21:28:03] Processing Task-14
+[2026-05-21 21:28:05] Worker-2 failed on Task-14
+[2026-05-21 21:28:05] Retrying Task-14
+[2026-05-21 21:28:05] Processing Task-6
+[2026-05-21 21:28:06] Completed Task-12
+[2026-05-21 21:28:06] Processing Task-11
+[2026-05-21 21:28:06] Completed Task-13
+[2026-05-21 21:28:06] Processing Task-14
+[2026-05-21 21:28:08] Completed Task-14
+[2026-05-21 21:28:08] Completed Task-6
+[2026-05-21 21:28:10] Completed Task-11
+[2026-05-21 21:29:22] Server started on port 8080
+[2026-05-21 21:29:23] Worker-2 started
+[2026-05-21 21:29:23] Worker-1 started
+[2026-05-21 21:29:23] Worker-3 started
+[2026-05-21 21:30:58] Task Task-0 submitted with priority LOW
+[2026-05-21 21:30:58] Processing Task-0
+[2026-05-21 21:30:59] Task Task-1 submitted with priority MEDIUM
+[2026-05-21 21:30:59] Processing Task-1
+[2026-05-21 21:30:59] Task Task-2 submitted with priority LOW
+[2026-05-21 21:30:59] Processing Task-2
+[2026-05-21 21:31:00] Task Task-3 submitted with priority LOW
+[2026-05-21 21:31:00] Task Task-4 submitted with priority HIGH
+[2026-05-21 21:31:01] Task Task-5 submitted with priority LOW
+[2026-05-21 21:31:01] Completed Task-0
+[2026-05-21 21:31:01] Processing Task-3
+[2026-05-21 21:31:01] Task Task-6 submitted with priority HIGH
+[2026-05-21 21:31:02] Task Task-7 submitted with priority HIGH
+[2026-05-21 21:31:02] Task Task-8 submitted with priority MEDIUM
+[2026-05-21 21:31:03] Completed Task-1
+[2026-05-21 21:31:03] Processing Task-4
+[2026-05-21 21:31:03] Task Task-9 submitted with priority LOW
+[2026-05-21 21:31:03] Task Task-10 submitted with priority HIGH
+[2026-05-21 21:31:04] Task Task-11 submitted with priority LOW
+[2026-05-21 21:31:04] Worker-1 failed on Task-2
+[2026-05-21 21:31:04] Retrying Task-2
+[2026-05-21 21:31:04] Processing Task-5
+[2026-05-21 21:31:04] Task Task-12 submitted with priority LOW
+[2026-05-21 21:31:05] Task Task-13 submitted with priority LOW
+[2026-05-21 21:31:05] Worker-3 failed on Task-3
+[2026-05-21 21:31:05] Retrying Task-3
+[2026-05-21 21:31:05] Processing Task-6
+[2026-05-21 21:31:05] Task Task-14 submitted with priority LOW
+[2026-05-21 21:31:06] Completed Task-4
+[2026-05-21 21:31:06] Processing Task-7
+[2026-05-21 21:31:08] Worker-1 failed on Task-5
+[2026-05-21 21:31:08] Retrying Task-5
+[2026-05-21 21:31:08] Processing Task-8
+[2026-05-21 21:31:09] Completed Task-6
+[2026-05-21 21:31:09] Processing Task-9
+[2026-05-21 21:31:11] Worker-2 failed on Task-7
+[2026-05-21 21:31:11] Retrying Task-7
+[2026-05-21 21:31:11] Processing Task-10
+[2026-05-21 21:31:12] Completed Task-8
+[2026-05-21 21:31:12] Processing Task-11
+[2026-05-21 21:31:13] Completed Task-9
+[2026-05-21 21:31:13] Processing Task-2
+[2026-05-21 21:31:15] Completed Task-11
+[2026-05-21 21:31:15] Worker-3 failed on Task-2
+[2026-05-21 21:31:15] Retrying Task-2
+[2026-05-21 21:31:15] Processing Task-12
+[2026-05-21 21:31:15] Processing Task-13
+[2026-05-21 21:31:16] Completed Task-10
+[2026-05-21 21:31:16] Processing Task-3
+[2026-05-21 21:31:19] Worker-2 failed on Task-3
+[2026-05-21 21:31:19] Retrying Task-3
+[2026-05-21 21:31:19] Processing Task-14
+[2026-05-21 21:31:19] Completed Task-12
+[2026-05-21 21:31:19] Completed Task-13
+[2026-05-21 21:31:19] Processing Task-5
+[2026-05-21 21:31:19] Processing Task-7
+[2026-05-21 21:31:21] Completed Task-5
+[2026-05-21 21:31:21] Completed Task-7
+[2026-05-21 21:31:21] Processing Task-2
+[2026-05-21 21:31:21] Processing Task-3
+[2026-05-21 21:31:24] Worker-2 failed on Task-14
+[2026-05-21 21:31:24] Retrying Task-14
+[2026-05-21 21:31:24] Processing Task-14
+[2026-05-21 21:31:25] Worker-3 failed on Task-3
+[2026-05-21 21:31:25] Retrying Task-3
+[2026-05-21 21:31:25] Processing Task-3
+[2026-05-21 21:31:26] Completed Task-14
+[2026-05-21 21:31:26] Completed Task-2
+[2026-05-21 21:31:30] Completed Task-3
+[2026-05-21 21:34:06] Server started on port 8080
+[2026-05-21 21:34:06] Worker-1 started
+[2026-05-21 21:34:06] Worker-3 started
+[2026-05-21 21:34:06] Worker-2 started

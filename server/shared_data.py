@@ -1,26 +1,32 @@
-from multiprocessing import Lock
+from multiprocessing import Manager
 
 # ==========================================
-# LOCK
+# SHARED STATE
 # ==========================================
 
-lock = Lock()
+system_data = None
+lock = None
 
-# ==========================================
-# SYSTEM DATA
-# ==========================================
 
-system_data = {
+def init_shared_data(manager: Manager):
 
-    "completed": 0,
+    global system_data, lock
 
-    "failed": 0,
+    lock = manager.Lock()
 
-    "received": 0,
+    system_data = manager.dict({
 
-    "processing": [],
+        "completed": 0,
 
-    "completed_tasks": [],
+        "failed": 0,
 
-    "failed_tasks": []
-}
+        "received": 0,
+
+        "processing": manager.list(),
+
+        "completed_tasks": manager.list(),
+
+        "failed_tasks": manager.list()
+
+    })
+

@@ -1,19 +1,18 @@
 from aiohttp import web
 from multiprocessing import (
+    Manager,
     Process,
+    Queue,
     freeze_support
 )
 
-from queue_manager import (
-    task_queue,
-    next_counter
-)
+from queue_manager import next_counter
 
 from worker import worker_loop
 
-from shared_data import (
-    system_data
-)
+import shared_data
+
+task_queue = None
 
 from system_logger import write_log
 
@@ -60,7 +59,7 @@ async def submit_task(request):
         )
     )
 
-    system_data["received"] += 1
+    shared_data.system_data["received"] += 1
 
     write_log(
 
@@ -79,7 +78,16 @@ async def submit_task(request):
 
 async def status(request):
 
-    return web.json_response(system_data)
+    data = {
+        "completed": shared_data.system_data["completed"],
+        "failed": shared_data.system_data["failed"],
+        "received": shared_data.system_data["received"],
+        "processing": list(shared_data.system_data["processing"]),
+        "completed_tasks": list(shared_data.system_data["completed_tasks"]),
+        "failed_tasks": list(shared_data.system_data["failed_tasks"])
+    }
+
+    return web.json_response(data)
 
 # ==========================================
 # START SERVER
@@ -116,6 +124,12 @@ if __name__ == "__main__":
 
     freeze_support()
 
+    manager = Manager()
+
+    shared_data.init_shared_data(manager)
+
+    task_queue = Queue()
+
     workers = []
 
     NUMBER_OF_WORKERS = 3
@@ -126,7 +140,7 @@ if __name__ == "__main__":
 
             target=worker_loop,
 
-            args=(i + 1,)
+            args=(i + 1, task_queue, shared_data.system_data, shared_data.lock)
         )
 
         p.start()

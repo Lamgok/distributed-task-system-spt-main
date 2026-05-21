@@ -1,15 +1,7 @@
 import time
 import random
 
-from queue_manager import (
-    task_queue,
-    next_counter
-)
-
-from shared_data import (
-    system_data,
-    lock
-)
+from queue_manager import next_counter
 
 from system_logger import write_log
 
@@ -43,7 +35,7 @@ def process_task(task):
 # WORKER LOOP
 # ==========================================
 
-def worker_loop(worker_id):
+def worker_loop(worker_id, task_queue, system_data, lock):
 
     write_log(
         f"Worker-{worker_id} started"
