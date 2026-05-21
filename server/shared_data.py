@@ -12,7 +12,7 @@ def init_shared_data(manager: Manager):
     lock = manager.Lock()
 
     # Menggunakan list standard bawaan [] di dalam manager.dict
-    # agar sinkronisasi data antarproses berjalan dengan baik
+    # agar deteksi mutasi data terpantau otomatis oleh Manager proxy
     system_data = manager.dict({
         "completed": 0,
         "failed": 0,

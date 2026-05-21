@@ -18,8 +18,10 @@ task_queue = None
 # ==========================================
 priority_map = {
     "HIGH": 1,
-    "MEDIUM": 2,
-    "LOW": 3
+    "TALL": 2,      
+    "MEDIUM": 3,
+    "SHORT": 4,     
+    "LOW": 5
 }
 
 # ==========================================
@@ -91,6 +93,8 @@ if __name__ == "__main__":
     manager = Manager()
     shared_data.init_shared_data(manager)
 
+    # Menggunakan antrean multiproses bawaan (Queue) standar 
+    # yang kompatibel dengan arsitektur dasar folder Lamgok
     task_queue = Queue()
     workers = []
     NUMBER_OF_WORKERS = 3

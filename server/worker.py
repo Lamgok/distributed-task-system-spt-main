@@ -31,7 +31,7 @@ def worker_loop(worker_id, task_queue, system_data, lock):
 
         try:
             with lock:
-                # Salin list, tambahkan data, dan masukkan kembali ke shared dict
+                # Salin list, lakukan manipulasi data, lalu kembalikan ke kamus bersama
                 current_processing = list(system_data["processing"])
                 current_processing.append(task["name"])
                 system_data["processing"] = current_processing

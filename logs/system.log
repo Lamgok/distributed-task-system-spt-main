@@ -540,3 +540,64 @@
 [2026-05-21 21:48:04] Retrying Task-14
 [2026-05-21 21:48:04] Processing Task-14
 [2026-05-21 21:48:09] Completed Task-14
+[2026-05-21 22:04:45] Server started on port 8080
+[2026-05-21 22:04:45] Worker-3 started
+[2026-05-21 22:04:45] Worker-2 started
+[2026-05-21 22:04:45] Worker-1 started
+[2026-05-21 22:05:31] Task Task-0 submitted with priority HIGH
+[2026-05-21 22:05:31] Processing Task-0
+[2026-05-21 22:05:31] Task Task-1 submitted with priority TALL
+[2026-05-21 22:05:31] Processing Task-1
+[2026-05-21 22:05:32] Task Task-2 submitted with priority LOW
+[2026-05-21 22:05:32] Processing Task-2
+[2026-05-21 22:05:32] Task Task-3 submitted with priority TALL
+[2026-05-21 22:05:33] Task Task-4 submitted with priority HIGH
+[2026-05-21 22:05:33] Task Task-5 submitted with priority TALL
+[2026-05-21 22:05:34] Completed Task-2
+[2026-05-21 22:05:34] Processing Task-3
+[2026-05-21 22:05:34] Task Task-6 submitted with priority HIGH
+[2026-05-21 22:05:34] Task Task-7 submitted with priority LOW
+[2026-05-21 22:05:35] Completed Task-0
+[2026-05-21 22:05:35] Processing Task-4
+[2026-05-21 22:05:35] Task Task-8 submitted with priority SHORT
+[2026-05-21 22:05:35] Completed Task-1
+[2026-05-21 22:05:35] Processing Task-5
+[2026-05-21 22:05:35] Task Task-9 submitted with priority TALL
+[2026-05-21 22:05:36] Completed Task-3
+[2026-05-21 22:05:36] Processing Task-6
+[2026-05-21 22:05:36] Task Task-10 submitted with priority HIGH
+[2026-05-21 22:05:36] Task Task-11 submitted with priority TALL
+[2026-05-21 22:05:37] Task Task-12 submitted with priority MEDIUM
+[2026-05-21 22:05:37] Task Task-13 submitted with priority HIGH
+[2026-05-21 22:05:38] Task Task-14 submitted with priority HIGH
+[2026-05-21 22:05:39] Completed Task-6
+[2026-05-21 22:05:39] Processing Task-7
+[2026-05-21 22:05:40] Completed Task-4
+[2026-05-21 22:05:40] Processing Task-8
+[2026-05-21 22:05:40] Worker-2 failed on Task-5
+[2026-05-21 22:05:40] Retrying Task-5
+[2026-05-21 22:05:40] Processing Task-9
+[2026-05-21 22:05:42] Completed Task-9
+[2026-05-21 22:05:42] Processing Task-10
+[2026-05-21 22:05:43] Completed Task-8
+[2026-05-21 22:05:43] Processing Task-11
+[2026-05-21 22:05:44] Worker-1 failed on Task-7
+[2026-05-21 22:05:44] Retrying Task-7
+[2026-05-21 22:05:44] Processing Task-12
+[2026-05-21 22:05:47] Worker-2 failed on Task-10
+[2026-05-21 22:05:47] Retrying Task-10
+[2026-05-21 22:05:47] Processing Task-13
+[2026-05-21 22:05:48] Completed Task-11
+[2026-05-21 22:05:48] Processing Task-14
+[2026-05-21 22:05:48] Completed Task-12
+[2026-05-21 22:05:48] Processing Task-5
+[2026-05-21 22:05:50] Completed Task-14
+[2026-05-21 22:05:50] Processing Task-7
+[2026-05-21 22:05:51] Completed Task-13
+[2026-05-21 22:05:51] Processing Task-10
+[2026-05-21 22:05:53] Completed Task-7
+[2026-05-21 22:05:53] Completed Task-5
+[2026-05-21 22:05:56] Worker-2 failed on Task-10
+[2026-05-21 22:05:56] Retrying Task-10
+[2026-05-21 22:05:56] Processing Task-10
+[2026-05-21 22:05:58] Completed Task-10
